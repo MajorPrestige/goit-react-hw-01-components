@@ -21,15 +21,6 @@ export const App = () => {
         views={views}
         likes={likes}
       />
-      ;
     </>
   );
 };
-
-// export const App = () => {
-//   return (
-//     <>
-//       <Profile {...user} />;
-//     </>
-//   );
-// };
