@@ -1,4 +1,5 @@
 .transactionHistory {
+  margin: 0 auto;
   border-spacing: 0px;
 }
 
@@ -6,11 +7,11 @@
   padding: 10px 50px;
   color: #fff;
   background-color: darkcyan;
-  border: 1px solid gray;
+  border: 1px solid #fff;
 }
 
 .td {
-  border: 1px solid gray;
+  border: 1px solid #fff;
   padding: 10px 50px;
 }
 
